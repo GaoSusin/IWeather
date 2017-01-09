@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="iWeahter" ></dbname>
+
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="com.susin.iweather.db.Province"></mapping>
+        <mapping class="com.susin.iweather.db.City"></mapping>
+        <mapping class="com.susin.iweather.db.County"></mapping>
+    </list>
+</litepal>
